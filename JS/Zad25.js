@@ -1,1 +1,1 @@
-let array =(0, 2, 4)
+let array =[0, 2, 4]
